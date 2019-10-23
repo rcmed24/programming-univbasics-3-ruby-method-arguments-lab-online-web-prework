@@ -1,5 +1,5 @@
-#
-
+name = (Rachel)
+introduction = "Hi,my name is #{name}."
 
 
 
